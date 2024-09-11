@@ -1,3 +1,5 @@
+#ESTE CÓDIGO É UMA VARIAÇÃO DA RESOLUÇÃO APRESENTADA PELO PROFESSOR DA DISCIPLINA PARA A RESOLULÇÃO DO PROBLEMA PROPOSTO
+
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
